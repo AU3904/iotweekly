@@ -8,7 +8,7 @@
 
 #####Facebook在调查中被评为“最不值得信赖的物联网公司”
 根据PC Mag的调查，我们可以清楚地看到Facebook过去对人们隐私的错误处理严重损害了他们在物联网世界中的声誉。
-
+![](https://img.meituan.net/dpmobile/04eccc9c598ed654a6133b97aca9904147622.jpg)
 图片来源：PCMag（https://www.pcmag.com/news/369730/which-iot-companies-do-people-most-mistrust-hint-facebook）
 
 #####物联网，能复刻互联网的赚钱路吗？
@@ -32,7 +32,7 @@ http://www.myzaker.com/article/5d4642038e9f09529771b27c/
  - IoT Analytics跟踪的所有物联网初创公司中有46％主要关注人工智能，分析和数据科学
 
 IoT Analytics的2019年最佳10家IoT创业公司：
-
+![b](https://img.meituan.net/dpmobile/65a775feb3f1a984fe42224ae1c3ba3d208513.jpg)
 
 #####中国首个开源协议“木兰宽松许可证”诞生，比Apache License友好
 中国开源云联盟官网上线了“木兰宽松许可证”（MulanPSL），据传这是中国首个开源协议。专家指出，相比Apache License，MulanPSL拥有两大优势：
@@ -45,8 +45,11 @@ IoT Analytics的2019年最佳10家IoT创业公司：
 LoRa和NB-IoT都属于低功耗广域接入（LPWAN）技术：
 NB－IoT的全称是Narrow Band－Internet of Things，是基于蜂窝网络的窄带物联网技术，聚焦于低功耗广域网，支持物联网设备在广域网的蜂窝数据连接，可直接部署与LTE网络。它背靠运营商对于室内场景覆盖有着天然的优势。特点可以概括为：广覆盖、低功耗、低成本、大连接等特性。
 
-LoRa vs NB-IoT
+ - LoRa vs NB-IoT
+ 
+![LoRa vs NB-IoT](https://img.meituan.net/dpmobile/b5c182621d74cffdd56024ea3197a16368614.jpg)
 
+![](https://img.meituan.net/dpmobile/450954143d5b6df12b8bf6a66ea6765125619.jpg)
 
 #####Teal Communications推出全球eSIM和物联网连接平台
 Teal的解决方案利用多网络方法实现全球高度安全，可扩展且经济高效的连接。该平台旨在实现全球物联网设备部署，客户可以立即连接196个国家/地区的各种设备，包括美国所有四家主要运营商。Teal的eSIM适用于所有兼容的物联网设备，包括踏板车，自行车，无人机，自动驾驶汽车，传感器，仪表，资产追踪器，医疗保健设备，平板电脑，销售点设备和可穿戴设备。
@@ -110,7 +113,7 @@ Cybereason是以色列一家网络安全创业公司，它的软件可收集计�
 ###政策与法规：
 #####美国联邦航空局（FAA）批准首次'超出视线范围'无人机飞行
 美国联邦航空局（FAA）之前一直尚未批准亚马逊的无人机交付，因为它们需要“超出视线范围”。但最近这个政策有所松动，如果运营商能够随时关注飞机，美国联邦航空局允许无人机飞行进行交付货物。这对Amamzon等公司的好处是，它可以让他们更快地完成交付。亚马逊表示将在几个月内正式推出新的无人机设计。
-
+![](https://img.meituan.net/dpmobile/7a2d65e9238dc0af1d4e9e3225a7a21070671.jpg)
 ###资料：
 白皮书集合
 https://iotbusinessnews.com/white-papers/
